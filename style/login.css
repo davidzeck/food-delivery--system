@@ -1,0 +1,41 @@
+body{
+    background: url(/images/food1.jpeg) ;
+    background-size: cover;
+}
+h1{
+    
+    padding: 20px;
+    font-weight: 600px;
+    font-size: 50px;
+    font-family: 'Pacifico';
+    color:thistle;
+   
+}
+label{
+    color:white;
+    font-family: 'Pacifico';
+    font-size: 20px;
+}
+a{
+    text-decoration:none;
+    padding: 5px;
+    background-color: grey ;
+    color: white;
+    font-family: 'Pacifico';
+}
+
+.log{
+    width: 550px;
+    height: 900px;
+    float:left;
+    background-color:black ;
+    opacity: 0.7;
+}
+p {
+    color: thistle;
+    font-family: 'Pacifico';
+    font-size: medium;
+}
+a:hover{
+    padding :10px;
+}

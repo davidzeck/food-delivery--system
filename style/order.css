@@ -1,0 +1,54 @@
+body{
+    font-family: 'Pacifico';
+    background-color: #D69F3A;
+}
+.controls{
+    padding-top:30px;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .answer1{
+      padding:20px;
+      width: 600px;
+      height:150px;
+  }
+  .answer2{
+      
+      width: 600px;
+      height:150px;
+  }
+  a:hover{
+      text-decoration: none;
+      background-color: lightcoral;
+      color:black;
+      
+  }
+  .linked{
+    padding: 10px 16px;
+    background:#c34f5a;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    z-index: 99;
+    
+}
+img{
+    width: 200px;
+    height:400px;
+
+}

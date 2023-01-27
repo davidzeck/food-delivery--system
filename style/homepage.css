@@ -1,0 +1,120 @@
+body{
+    
+    background: linear-gradient(rgba(0,0,0,0.95),rgba(0,0,0,0.65),rgba(0,0,0,0.38),rgba(0,0,0,0)), url(/images/pexels-photo-3915857\(p7\).jpeg) ;
+    background-size: cover;
+    /*height: 450px;
+    max-width: 100%;
+    padding-inline: 100px;
+    align-items: center;*/
+    font-family: 'Pacifico';
+}
+.divine{
+        padding-top: 300px;
+        float: right;
+               
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    font-weight: 600px;
+    font-size: 50px;
+    font-family: 'Pacifico';
+    color:thistle;
+}
+
+.main{
+    width: 900px;
+    float: right;
+    border: 1px solid black;
+}
+.main ul li{
+    width: 120px;
+    float: left;
+    margin:10 px auto;
+    text-align: center;
+}
+
+.class{
+    background-color: beige;
+
+}
+/*header{
+    font-style: italic;
+    background-color:pink;
+}*/
+
+ul li a{
+    text-decoration: none;
+}
+ul li :hover{
+    background-color: rgb(146, 80, 146);
+    padding: 10px;
+}
+.main ul li a:hover{
+    color:white;
+}
+a:link{
+    color:maroon; 
+}
+
+
+.heat_buner{
+    width: 300px;
+    height: 550px;
+    background-color: rgb(175, 43, 43);
+    opacity: 0.6;
+    padding: 100px;
+}
+.heat_buner h1{
+    color: burlywood;
+    font-weight: 200;
+}
+.heat_buner p{
+    font-size: large;
+    font-weight: 400;
+    color:cornsilk;
+}
+.heat_buner:hover{
+    background-color: black;
+    padding: 120px;
+    opacity: 0.3;
+}
+.writting{
+    margin: 0 auto;
+    padding: 100px;
+}
+a{
+    color: mediumorchid;
+
+}
+.info{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 100px;
+    margin: 0 auto;
+}
+.info p{
+    font-size: 22px;
+}
+.info p span:hover{
+background-color: tomato;
+color: white;
+}
+.heat_buner a{
+    text-decoration: none;
+    background-color: yellow;
+}
+.linked{
+    padding: 10px 16px;
+    background: #870000;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    z-index: 99;
+}
+.prize{
+    background-color:rgb(180, 111, 33);
+    opacity: 0.7;
+    padding: 100px;
+}

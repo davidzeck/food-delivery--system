@@ -1,0 +1,30 @@
+body{
+    background:/* linear-gradient(rgba(0,0,0,0.95),rgba(0,0,0,0.65),rgba(0,0,0,0.38),rgba(0,0,0,0)),
+    */ url(/images/pizza-login.jpg) ;
+    background-size: cover;
+    margin: 20px;
+    font-size: 30px;
+}
+h1{
+    padding: 20px;
+    font-weight: 600px;
+    font-size: 50px;
+    font-family: 'Pacifico';
+    color:thistle;
+}
+label{
+    color:white;
+    font-family: 'Pacifico';
+    font-size: medium;
+}
+a{
+    background-color:lightgrey;
+    text-decoration: none;
+    border: solid;
+}
+
+.main a:hover{
+    background-color: lightblue;
+    color:white;
+    padding: 10px;
+}
